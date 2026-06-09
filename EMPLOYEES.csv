@@ -1,0 +1,21 @@
+employee_id,employee_name,position_ranked,branch_id,salary
+200,John Mwangi,Cashier,1,20000
+202,Mary Wanjiru,Cleaner,1,12000
+203,Brian Otieno,Store Clerk,1,30000
+204,Faith Njeri,Cashier,2,20000
+205,Kevin Kiptoo,Store Clerk,2,30000
+206,Mercy Achieng,Cleaner,2,12000
+207,James Kariuki,Supervisor,1,42000
+208,Sharon Atieno,Supervisor,2,42000
+209,Peter Ouma,Store Clerk,3,30000
+210,Mohamed Ali,Supervisor,3,42000
+211,Karimi Mutao,Cashier,3,20000
+212,Racheal Oduomo,Cleaner,3,12000
+213,Kennedy oliech,Store Clerk,4,30000
+214,Benny Makachi,Supervisor,4,42000
+215,Freshia Wanyoike,Cashier,4,20000
+216,Ruto Press,Cleaner,4,12000
+217,Kabila Msa,Cashier,5,20000
+218,Margaret Jamabi,Supervisor,5,20000
+219,Wanyonyi Clemet,Store Clerk,5,30000
+220,Magoma Thesis,Cleaner,5,12000

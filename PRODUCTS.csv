@@ -1,0 +1,53 @@
+product_id,product_name,category,price,package_size
+100,Maize flour,staple food,180.00,2kg
+101,Maize flour,staple food,180.00,2kg
+102,cooking oil,staple food,420.00,1l
+103,rice,staple food,350.00,2kg
+105,wheat flour,staple food,195.00,2kg
+106,spaghetti,staple food,120.00,500g
+107,sugar,staple food,180.00,1kg
+108,ndengu,staple food,220.00,1kg
+109,First Choice Milk,Dairy,70.00,500ml
+110,Butter and Cream,Dairy,300.00,250g
+111,Cheese,Dairy,450.00,250g
+112,Mala,Dairy,80.00,500ml
+113,Yoghurt,Dairy,120.00,500ml
+114,ice cream,Dairy,250.00,250g
+115,First Coffee,Beverages,180.00,100g
+116,Energy Drink,Beverages,120.00,400ml
+117,Coca-Cola,Beverages,180.00,2L
+118,Delmonte Juice,Beverages,220.00,1L
+119,Soda Water,Beverages,60.00,500ml
+120,Biscuits,Snacks,100.00,200g
+121,Crisps,Snacks,80.00,150g
+122,Popcorn,Snacks,70.00,100g
+123,Peanuts,Snacks,150.00,200g
+124,Ringoz,Snacks,50.00,85g
+125,Lotions,Personal Care,250.00,250ml
+126,Shampoos,Personal Care,350.00,400ml
+127,Bar Soap,Personal Care,85.00,125g
+128,Toothpaste,Personal Care,150.00,100g
+129,Sanitary Pads,Personal Care,180.00,10 pcs
+130,Toothbrushes,Personal Care,120.00,1 piece
+131,Deodorants,Personal Care,300.00,150ml
+132,Weetabix,Packaged Foods,250.00,375g
+133,Indomie,Packaged Foods,75.00,120g
+134,Jam,Packaged Foods,280.00,500g
+135,Cookies,Packaged Foods,180.00,250g
+136,Pasta,Packaged Foods,140.00,500g
+137,Tomatoes,Fresh Produce,120.00,1kg
+138,Banana,Fresh Produce,150.00,1 bunch
+139,Onions,Fresh Produce,100.00,1kg
+140,Cabbages,Fresh Produce,80.00,1 piece
+141,Sukuma Wiki,Fresh Produce,50.00,1 bunch
+142,Baby Diapers,Baby Products,1200.00,40 pcs
+143,Baby Wipes,Baby Products,250.00,80 pcs
+144,Baby Powder,Baby Products,250.00,200g
+145,Baby Lotion,Baby Products,350.00,250ml
+146,Baby Oil,Baby Products,300.00,200ml
+147,Baby Soap,Baby Products,180.00,100g
+148,Laundry Detergent,Household,650.00,1kg
+149,Washing Powder,Household,550.00,1kg
+150,Bleach,Household,180.00,750ml
+151,Toilet Cleaner,Household,250.00,500ml
+152,Air Freshener,Household,350.00,300ml
