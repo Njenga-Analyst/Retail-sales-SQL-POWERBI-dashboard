@@ -1,4 +1,6 @@
 # Retail Sales SQL & Power BI Dashboard
+<img width="974" height="498" alt="Image dashboard" src="https://github.com/user-attachments/assets/80dd77ed-5396-4814-a093-4b22ffaa6b21" />
+
 
 ## Project Overview
 This project analyzes retail sales data using SQL, Excel, and Power BI. For A particular (supermarket First Choice)
